@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Moutaz-Potrfolio/static/css/main.58e2ea62.css",
+    "main.js": "/Moutaz-Potrfolio/static/js/main.ba4fd98e.js",
+    "static/media/init.png": "/Moutaz-Potrfolio/static/media/init.e9e08571def495581612.png",
+    "static/media/SS5.png": "/Moutaz-Potrfolio/static/media/SS5.b49c7f4300c3d2be357a.png",
+    "static/media/React1.jpg": "/Moutaz-Potrfolio/static/media/React1.fd7017c56ebcf20cb10d.jpg",
+    "static/media/Intro.jpg": "/Moutaz-Potrfolio/static/media/Intro.36e689a5e762448dad22.jpg",
+    "static/media/React2.jpg": "/Moutaz-Potrfolio/static/media/React2.673ad67bafdab7369788.jpg",
+    "index.html": "/Moutaz-Potrfolio/index.html",
+    "main.58e2ea62.css.map": "/Moutaz-Potrfolio/static/css/main.58e2ea62.css.map",
+    "main.ba4fd98e.js.map": "/Moutaz-Potrfolio/static/js/main.ba4fd98e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e2ea62.css",
+    "static/js/main.ba4fd98e.js"
+  ]
+}
